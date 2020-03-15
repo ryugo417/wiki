@@ -1,1 +1,1 @@
-Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{index:0,modul:0,page:0,search:0},titles:["Welcome to wiki's documentation!"],titleterms:{document:0,indic:0,tabl:0,welcom:0,wiki:0}})
+Search.setIndex({docnames:["index","test1"],envversion:53,filenames:["index.rst","test1.rst"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0,test1:1,test:0},titles:["Welcome to wiki's documentation!","test"],titleterms:{document:0,indic:0,tabl:0,test:1,welcom:0,wiki:0}})

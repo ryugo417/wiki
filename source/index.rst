@@ -10,6 +10,7 @@ Welcome to wiki's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   test1
 
 
 Indices and tables
